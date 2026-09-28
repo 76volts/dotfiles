@@ -1,0 +1,10 @@
+source = ~/.config/hypr/conf/envvars.conf
+source = ~/.config/hypr/conf/monitors.conf
+source = ~/.config/hypr/conf/programs.conf
+source = ~/.config/hypr/conf/autostart.conf
+source = ~/.config/hypr/conf/input.conf
+source = ~/.config/hypr/conf/appearance.conf
+source = ~/.config/hypr/conf/binds.conf
+source = ~/.config/hypr/conf/windowrules.conf
+
+source = ./dms/cursor.conf

@@ -1,0 +1,11 @@
+exec-once = hyprlock
+exec-once = waybar
+exec-once = swaybg -i /home/aaron/Pictures/wallpaper/wallpaper.jpg -m fill
+exec-once = swaync
+exec-once = hypridle
+exec-once = hyprpolkitagent
+exec-once = blueman-applet
+exec-once = nm-applet
+exec-once = wl-paste --type text --watch cliphist store
+exec-once = wl-paste --type image --watch cliphist store
+exec-once = clipse -listen
